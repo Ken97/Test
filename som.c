@@ -13,5 +13,6 @@ int main(void)
     scanf("%d", &c);
     som = (a + b + c);
             printf("de som van de 3 getallen is %d\n", som);
+            printf("github test");
     return 0;
 }
